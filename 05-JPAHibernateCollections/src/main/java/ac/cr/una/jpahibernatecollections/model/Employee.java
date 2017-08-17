@@ -45,7 +45,7 @@ public class Employee {
 
     @ElementCollection(fetch=FetchType.LAZY)
     @CollectionTable(name = "email")
-    @IndexColumn(name="email_index")
+    @OrderColumn(name="email_index")
     private List<String> emails;
 
     public long getId() {
