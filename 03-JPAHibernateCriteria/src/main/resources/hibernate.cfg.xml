@@ -46,8 +46,8 @@ Contributor(s):
         <property name="hibernate.bytecode.use_reflection_optimizer">false</property>
         <property name="hibernate.id.new_generator_mappings">true</property>
         <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-        <property name="hibernate.connection.url">jdbc:mysql://127.0.0.1:3306/03JPAHCriteria</property>
-        <property name="hibernate.connection.username">03JPAHCriteria</property>
+        <property name="hibernate.connection.url">jdbc:mysql://127.0.0.1:3306/eif509_03JPAHCriteria</property>
+        <property name="hibernate.connection.username">eif509db</property>
         <property name="hibernate.connection.password">1234$una</property>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="show_sql">true</property>

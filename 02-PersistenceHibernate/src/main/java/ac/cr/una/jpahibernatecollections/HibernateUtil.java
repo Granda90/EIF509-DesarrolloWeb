@@ -16,9 +16,7 @@
  * 
  * Universidad Nacional de Costa Rica, Prof: Maikol Guzman Alan.
  */
-package ac.cr.una.persistencehibernate;
-
-import com.fasterxml.classmate.AnnotationConfiguration;
+package ac.cr.una.jpahibernatecollections;
 
 /**
  *

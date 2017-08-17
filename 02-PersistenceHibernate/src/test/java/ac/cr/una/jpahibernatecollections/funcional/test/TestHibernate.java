@@ -16,13 +16,12 @@
  * 
  * Universidad Nacional de Costa Rica, Prof: Maikol Guzman Alan.
  */
-package ac.cr.una.persistencehibernate.funcional.test;
+package ac.cr.una.jpahibernatecollections.funcional.test;
 
-import ac.cr.una.persistencehibernate.HibernateUtil;
-import ac.cr.una.persistencehibernate.model.Department;
-import ac.cr.una.persistencehibernate.model.Employee;
+import ac.cr.una.jpahibernatecollections.HibernateUtil;
+import ac.cr.una.jpahibernatecollections.model.Department;
+import ac.cr.una.jpahibernatecollections.model.Employee;
 import org.hibernate.Session;
-import org.hibernate.SessionFactory;
 import org.junit.*;
 import org.junit.runners.MethodSorters;
 

@@ -16,7 +16,7 @@
  * 
  * Universidad Nacional de Costa Rica, Prof: Maikol Guzman Alan.
  */
-package ac.cr.una.persistencehibernate.model;
+package ac.cr.una.jpahibernatecollections.model;
 
 import java.util.Objects;
 import javax.persistence.Column;
